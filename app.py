@@ -26,9 +26,7 @@ SKIN_TONE_COOL = "#C0E0F0"
 HEADER_COLOR = "#2A6D88"
 
 # Page Configuration
-st.set_page_config(
-    page_title="SkinovaAI: 
-    ,
+st.set_page_config( 
     layout="wide",
     initial_sidebar_state="expanded"
 )
